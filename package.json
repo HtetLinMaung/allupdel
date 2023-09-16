@@ -1,0 +1,22 @@
+{
+  "name": "allupdel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@azure/storage-blob": "^12.14.0",
+    "@types/mime-types": "^2.1.1",
+    "@types/node": "^20.4.1",
+    "aws-sdk": "^2.1413.0",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "mime-types": "^2.1.35"
+  }
+}
